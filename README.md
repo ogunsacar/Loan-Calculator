@@ -1,2 +1,2 @@
 # Loan-Calculator
-HTML&amp;CSS&amp;JS
+HTML&amp;CSS&amp;JS [Brad Traversy]
